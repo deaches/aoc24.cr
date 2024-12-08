@@ -7,6 +7,7 @@ Advent of Code '24: Crystal Edition
 - [ ] [Day 4: Ceres Search][4]
 - [ ] [Day 5: Print Queue][5]
 - [ ] [Day 6: Guard Gallivant][6]
+- [ ] [Day 7: Bridge Repair][6]
 
 [1]:  https://adventofcode.com/2024/day/1
 [2]:  https://adventofcode.com/2024/day/2
@@ -14,3 +15,4 @@ Advent of Code '24: Crystal Edition
 [4]:  https://adventofcode.com/2024/day/4
 [5]:  https://adventofcode.com/2024/day/5
 [6]:  https://adventofcode.com/2024/day/6
+[7]:  https://adventofcode.com/2024/day/7
