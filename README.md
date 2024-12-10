@@ -10,6 +10,7 @@ Advent of Code '24: Crystal Edition
 - [ ] [Day 7: Bridge Repair][7]
 - [ ] [Day 8: Linear Collinearity][8]
 - [ ] [Day 9: Disk Fragmenter][9]
+- [ ] [Day 10: Hoof It][10]
 
 [1]:  https://adventofcode.com/2024/day/1
 [2]:  https://adventofcode.com/2024/day/2
@@ -20,3 +21,4 @@ Advent of Code '24: Crystal Edition
 [7]:  https://adventofcode.com/2024/day/7
 [8]:  https://adventofcode.com/2024/day/8
 [9]:  https://adventofcode.com/2024/day/9
+[10]: https://adventofcode.com/2024/day/10
